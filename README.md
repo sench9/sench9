@@ -40,6 +40,9 @@ Here are some of the projects I've worked on:
 - **Description**: The Stopwatch Web Application is a simple yet functional tool for tracking time with precision. It includes start, stop, and reset functionalities, making it perfect for timing activities, workouts, or tasks.
 - **Tech Stack**: JavaScript, CSS,HTML
 - **Link**: [Stopwatch web application](https://github.com/yourusername/PRODIGY_WD_02)
+
+ ![Project Screenshot](https://github.com/sench9/PRODIGY_WD_02/blob/main/stopwatch.jpg)
+ 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sench9&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sench9&layout=compact)
