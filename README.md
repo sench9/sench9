@@ -37,8 +37,6 @@ Here are some of the projects I've worked on:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sench9&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sench9&layout=compact)
 
-## 🌟 Achievements
-
 ## 📫 Let's Connect!
 - LinkedIn: sench(https://linkedin.com/in/sench)
 - Twitter: sench215432(https://twitter.com/sench215432)
