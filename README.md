@@ -19,6 +19,7 @@ Here are some of the projects I've worked on:
 - **Description**: The Advanced Calculator is a versatile and user-friendly application designed to handle a wide range of mathematical operations, from basic arithmetic to advanced scientific and statistical calculations. It’s perfect for students, professionals, and anyone who needs a reliable tool for complex computations.
 - **Tech Stack**: HTML,CSS nad JavaScript 
 - **Link**: [Calculator Repository](https://github.com/sench9/calculator)
+  
   Calculator https://github.com/sench9/sench9/blob/main/calculator.jpg
 
 ### 2. Contact-Form
