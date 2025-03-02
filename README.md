@@ -29,7 +29,7 @@ Here are some of the projects I've worked on:
 - **Description**: The Responsive Landing Page is a modern, visually appealing webpage designed to showcase a product, service, or portfolio. It adapts seamlessly to different screen sizes, ensuring a great user experience on desktops, tablets, and mobile devices.
 - **Tech Stack**: JavaScript, CSS,HTML
 - **Link**: [Responsive-landing page Repository](https://github.com/yourusername/PRODIGY_WD_01)
-### 4. **Stopwatch web application **
+### 4. Stopwatch web application
 - **Description**: The Stopwatch Web Application is a simple yet functional tool for tracking time with precision. It includes start, stop, and reset functionalities, making it perfect for timing activities, workouts, or tasks.
 - **Tech Stack**: JavaScript, CSS,HTML
 - **Link**: [Stopwatch web application](https://github.com/yourusername/PRODIGY_WD_02)
