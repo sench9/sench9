@@ -25,7 +25,7 @@ Here are some of the projects I've worked on:
 - **Tech Stack**: JavaScript, CSS,HTML
 - **Link**: [Contact-Form Repository](https://github.com/sench9/contact-form)
 
-### 3. **Responsive-landing page**
+### 3. Responsive-landing page
 - **Description**: The Responsive Landing Page is a modern, visually appealing webpage designed to showcase a product, service, or portfolio. It adapts seamlessly to different screen sizes, ensuring a great user experience on desktops, tablets, and mobile devices.
 - **Tech Stack**: JavaScript, CSS,HTML
 - **Link**: [Responsive-landing page Repository](https://github.com/yourusername/PRODIGY_WD_01)
