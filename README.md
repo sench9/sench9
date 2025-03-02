@@ -20,7 +20,7 @@ Here are some of the projects I've worked on:
 - **Tech Stack**: HTML,CSS nad JavaScript 
 - **Link**: [Calculator Repository](https://github.com/sench9/calculator)
   
-  Calculator https://github.com/sench9/sench9/blob/main/calculator.jpg
+  Calculato(https://github.com/sench9/calculator/blob/main/calculator.jpg)
 
 ### 2. Contact-Form
 - **Description**: The Contact Form is a simple yet powerful web application that allows users to send messages or inquiries directly from a website. It includes validation to ensure data integrity and a responsive design for seamless use across devices
