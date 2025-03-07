@@ -41,7 +41,7 @@ Here are some of the projects I've worked on:
 - **Tech Stack**: JavaScript, CSS,HTML
 - **Link**: [Stopwatch web application](https://github.com/yourusername/PRODIGY_WD_02)
 
- ![Project Screenshot](https://github.com/sench9/PRODIGY_WD_02/blob/main/stopwatch.jpg)
+ ![Project Screenshot](https://github.com/sench9/PRODIGY_WD_02/blob/main/photo_2025-03-07_05-05-43.jpg)
  
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sench9&show_icons=true&theme=radical)
